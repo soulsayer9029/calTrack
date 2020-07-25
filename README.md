@@ -1,2 +1,2 @@
 # calTrack
-simle calorie tracker webpage
+simple calorie tracker webpage
